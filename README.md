@@ -19,7 +19,7 @@ Community Code is a web application that provides users with a database of commo
 *	&emsp;-Stack Overflow
 
 
-### Technologies Used:
+### Technologies Used
 
 * Firebase
 * Bootstrap
