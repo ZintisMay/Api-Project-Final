@@ -25,3 +25,8 @@ Community Code is a web application that provides users with a database of commo
 * Bootstrap
 * Moment.js
 * DataTables (a jQuery library)
+<br>
+* &emsp;API's:
+* &emsp;Reddit
+* &emsp;Stackoverflow
+* &emsp;Youtube
