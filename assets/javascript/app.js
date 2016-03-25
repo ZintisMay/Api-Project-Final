@@ -345,10 +345,10 @@ $(".stopvideo").click(function() {
 // This is the code that makes the DataTable work... DEFINITELY not supposed to be using a time out but I have no idea how to make the function run after the data is loaded.
 var lel = function() {
 	$(document).ready(function(){
-
-	$('#theTable').DataTable( {
-            "order": [[ 1, "desc" ]]
-        });
+	    $('#theTable').DataTable( {
+	    	"order": [[ 1, "desc" ]]
+	    });
+	});
 };
 
 
