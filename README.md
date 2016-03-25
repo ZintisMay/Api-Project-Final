@@ -7,6 +7,18 @@ Project utilizing multiple APIs and Firebase.
 
 Community Code is a web application that provides users with a database of commonly used functions and methods. It is designed to be collaborative so that users can add their own data and vote on the entries submitted by others.
 
+###Functionality
+
+User Generated Entries
+Sortable Table
+Search Function
+Voting Function: -3 negative votes removes entry from database.
+Automatic Resource gathering, presented via Modals:
+	-Youtube
+	-Reddit
+	-Stack Overflow
+
+
 ### Technologies Used:
 
 * Firebase
