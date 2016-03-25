@@ -9,11 +9,11 @@ Community Code is a web application that provides users with a database of commo
 
 ###Functionality
 
-*User Generated Entries
-*Sortable Table
-*Search Function
-*Voting Function: -3 negative votes removes entry from database.
-*Automatic Resource gathering, presented via Modals:
+* User Generated Entries
+* Sortable Table
+* Search Function
+* Voting Function: -3 negative votes removes entry from database.
+* Automatic Resource gathering, presented via Modals:
 *	-Youtube
 *	-Reddit
 *	-Stack Overflow
