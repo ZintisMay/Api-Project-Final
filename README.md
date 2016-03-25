@@ -14,9 +14,9 @@ Community Code is a web application that provides users with a database of commo
 * Search Function
 * Voting Function: -3 negative votes removes entry from database.
 * Automatic Resource gathering, presented via Modals:
-*	-Youtube
-*	-Reddit
-*	-Stack Overflow
+*	&emsp;-Youtube
+*	&emsp;-Reddit
+*	&emsp;-Stack Overflow
 
 
 ### Technologies Used:
