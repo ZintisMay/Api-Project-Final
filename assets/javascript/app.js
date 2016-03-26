@@ -161,7 +161,7 @@ tableData.on('child_added', function(childSnapshot, prevChildKey) {
 				var videoID = data.items[0].id.videoId;
 
 				// Appends the appropriate video to the modal.
-				$("#modalbody").append('<iframe width="560" height="315" src="http://www.youtube.com/embed/' + videoID + '" frameborder="0" allowfullscreen></iframe>');
+				$("#modalbody").append('<iframe width="560" height="315" src="https://www.youtube.com/embed/' + videoID + '" frameborder="0" allowfullscreen></iframe>');
 
 			});
 
@@ -271,7 +271,7 @@ tableData.on('child_added', function(childSnapshot, prevChildKey) {
 			// var stackURL = 'http://api.stackexchange.com/2.2/search/advanced?order=desc&sort=votes&q=' + term + '&site=stackoverflow';
 
 			// The url for the Stack Overflow API call. Searches the name of the function/method and the language for more specific results. 
-			var stackURL = 'http://api.stackexchange.com/2.2/search/advanced?order=desc&sort=votes&q=' + term + '+' + childSnapshot.val().language + '&site=stackoverflow';
+			var stackURL = 'https://api.stackexchange.com/2.2/search/advanced?order=desc&sort=votes&q=' + term + '+' + childSnapshot.val().language + '&site=stackoverflow';
 
 			// The Stack Overflow API call. 
 			$.ajax({url: stackURL, method: 'GET'}).done(function(response) {
